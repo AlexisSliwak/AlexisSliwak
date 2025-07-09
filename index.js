@@ -1,0 +1,1 @@
+console.log("This is an npm package by Alexis Sliwak. It does not do anything.");
